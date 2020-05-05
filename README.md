@@ -1,4 +1,4 @@
-# COVID-19-India-Datascience
+# COVID-19-India-Data visualization
 Using the covid-19 dataset, the data analysis and visualization are performed.
 The dataset used here is from the Kaggle website https://www.kaggle.com/sudalairajkumar/covid19-in-india . This website updates the dataset day by day.
 
